@@ -14,7 +14,7 @@
     },
     {
       "label": "وصف النشاط",
-      "default": "Fill in the missing words",
+      "default": "أكمل الكلمات الناقصة",
       "description": "دليل يخبر المستخدم عن كيفية الاجابة على هذا النشاط."
     },
     {
